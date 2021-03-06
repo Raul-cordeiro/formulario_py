@@ -1,5 +1,7 @@
 #ficha de cadastro
 from time import sleep
+import pandas as pd
+import numpay as np
 senha = int(input('digite sua senha.. '))
 while senha == 1234:
     print('iniciando nova venda')
@@ -56,7 +58,5 @@ while senha == 1234:
         sleep(2)
         print(lista)
         sleep(1)
-        print('fim')
-        
-        
+        print('fim')       
     
