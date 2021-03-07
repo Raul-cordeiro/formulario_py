@@ -1,4 +1,3 @@
-
 import numpy as np
 import pandas as pd
 coluna = 'A B C D E F G'.split()
